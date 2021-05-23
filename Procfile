@@ -1,1 +1,1 @@
-web: gunicorn flaskpythoncrud.wsgi
+web: gunicorn app.wsgi
